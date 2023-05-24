@@ -38,5 +38,6 @@ The input data was adjusted using the following methods:
 - Add more neurons to a hidden layer.
 - Add more hidden layers.
 - Use different activation functions for the hidden layers.
-- Add or reduce the number of epochs to the training regimen.
+- Add or reduce the number of epochs to the training regimen. <br>
+
 The desired predictive accuracy of 75% was not achieved, as I could only get an accuracy rating of 72.69%
